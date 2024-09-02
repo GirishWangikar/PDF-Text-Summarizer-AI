@@ -11,7 +11,7 @@ This project is an advanced PDF and text summarization tool with conciseness con
 
 ## Installation
 
-1. Clone this repository:git clone https://github.com/yourusername/pdf-text-summarizer.git
+1. Clone this repository:git clone https://github.com/GirishWangikar/PDF-Text-Summarizer-AI
 
 cd pdf-text-summarizer
 
