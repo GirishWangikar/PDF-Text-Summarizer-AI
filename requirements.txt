@@ -1,0 +1,5 @@
+gradio
+langchain_groq
+PyPDF2
+langchain
+transformers
