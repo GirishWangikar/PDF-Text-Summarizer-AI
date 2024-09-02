@@ -38,3 +38,10 @@ python app.py
 - langchain_groq
 - langchain
 - PyPDF2
+
+
+## Contact
+
+Created by [Girish Wangikar](https://www.linkedin.com/in/girish-wangikar/)
+
+Check out more on [LinkedIn](https://www.linkedin.com/in/girish-wangikar/) | [Portfolio](https://girishwangikar.github.io/Girish_Wangikar_Portfolio.github.io/)
