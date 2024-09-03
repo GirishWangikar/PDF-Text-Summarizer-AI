@@ -44,4 +44,4 @@ python app.py
 
 Created by [Girish Wangikar](https://www.linkedin.com/in/girish-wangikar/)
 
-Check out more on [LinkedIn](https://www.linkedin.com/in/girish-wangikar/) | [Portfolio](https://girishwangikar.github.io/Girish_Wangikar_Portfolio.github.io/) | [Technical Blog - Medium]([https://medium.com/@girishwangikar](https://medium.com/@girishwangikar/crafting-visual-masterpieces-ais-creative-revolution-c6a7a21d86a4))
+Check out more on [LinkedIn](https://www.linkedin.com/in/girish-wangikar/) | [Portfolio](https://girishwangikar.github.io/Girish_Wangikar_Portfolio.github.io/) | [Technical Blog - Medium](https://medium.com/@girishwangikar/advancing-document-summarization-6f6a24f2fbb0)
