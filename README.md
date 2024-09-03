@@ -1,5 +1,7 @@
 # PDF and Text Summarizer AI
 
+To know more, check out my blog - [Advancing Document Summarization](https://medium.com/@girishwangikar/advancing-document-summarization-6f6a24f2fbb0)
+
 This project is an advanced PDF and text summarization tool with conciseness control. It uses the LLAMA 3.1 8B model and LangChain to generate summaries from PDF documents or text input.
 
 ## Features
